@@ -74,7 +74,8 @@
     "formation": {
         "worker": {
             "quantity": 1,
-            "size": "professional"        }
+            "size": "basic"       
+        }
     },
     "stack": "container"
     }
